@@ -10,3 +10,5 @@
 
 ## Five Skills of Data Analyst.
 
+<img width="369" alt="5 Essential Skills" src="https://user-images.githubusercontent.com/58945964/136889329-de1ce6c2-d33f-4b83-b1c2-02dd04d91bef.png">
+
