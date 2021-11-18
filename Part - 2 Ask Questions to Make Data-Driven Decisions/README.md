@@ -9,3 +9,4 @@
 
 
 ### SMART method:
+<img width="919" alt="SMART" src="https://user-images.githubusercontent.com/58945964/142499063-e7a54a33-b15a-4bca-9608-579e01b5fd81.png">
